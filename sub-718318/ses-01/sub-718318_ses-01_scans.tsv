@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+fmap/sub-718318_ses-01_acq-SE_dir-AP_epi.nii.gz	1893-10-06T08:16:49	n/a	5bd20e02
+fmap/sub-718318_ses-01_acq-SE_dir-PA_epi.nii.gz	1893-10-06T08:17:24	n/a	bc2b0c3f
+anat/sub-718318_ses-01_T1w.nii.gz	1893-10-06T08:24:19	n/a	98abcf3f
+anat/sub-718318_ses-01_T2w.nii.gz	1893-10-06T08:30:24	n/a	d1b0c9fc
