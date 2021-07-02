@@ -1,0 +1,350 @@
+{
+    "AcquisitionMatrixPE": 104,
+    "AcquisitionNumber": 1,
+    "AcquisitionTime": "08:01:25.535000",
+    "BandwidthPerPixelPhaseEncode": 16.578,
+    "BaseResolution": 104,
+    "BodyPartExamined": "BRAIN",
+    "CoilString": "HC1-7;NC1_2",
+    "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) GCC6.3.0",
+    "DerivedVendorReportedEchoSpacing": 0.000580009,
+    "DeviceSerialNumber": "167046",
+    "DwellTime": 2.1e-06,
+    "EchoTime": 0.066,
+    "EchoTrainLength": 91,
+    "EffectiveEchoSpacing": 0.000580009,
+    "FlipAngle": 90,
+    "ImageOrientationPatientDICOM": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "ND",
+        "MOSAIC"
+    ],
+    "ImagingFrequency": 123.157,
+    "InPlanePhaseEncodingDirectionDICOM": "COL",
+    "InstitutionAddress": "deleted_by_bidsonym",
+    "InstitutionName": "deleted_by_bidsonym",
+    "InstitutionalDepartmentName": "deleted_by_bidsonym",
+    "MRAcquisitionType": "2D",
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Prisma_fit",
+    "Modality": "MR",
+    "PartialFourier": 0.875,
+    "PatientPosition": "HFS",
+    "PercentPhaseFOV": 100,
+    "PhaseEncodingDirection": "j",
+    "PhaseEncodingSteps": 91,
+    "PhaseResolution": 1,
+    "PixelBandwidth": 2290,
+    "ProcedureStepDescription": "deleted_by_bidsonym",
+    "ProtocolName": "fmap_acq-SE_dir-PA_ses-01",
+    "PulseSequenceDetails": "%CustomerSeq%_cmrr_mbep2d_se",
+    "ReceiveCoilActiveElements": "HC1-7;NC1,2",
+    "ReceiveCoilName": "HeadNeck_64",
+    "ReconMatrixPE": 104,
+    "RepetitionTime": 8,
+    "SAR": 0.167332,
+    "ScanOptions": "PFP_FS",
+    "ScanningSequence": "EP",
+    "SequenceName": "epse2d1_104",
+    "SequenceVariant": "SK",
+    "SeriesDescription": "fmap_acq-SE_dir-PA_ses-01",
+    "SeriesNumber": 7,
+    "ShimSetting": [
+        1058,
+        -2499,
+        4665,
+        176,
+        -39,
+        -164,
+        -37,
+        37
+    ],
+    "SliceThickness": 2,
+    "SliceTiming": [
+        3.99,
+        0,
+        4.1,
+        0.11,
+        4.21,
+        0.22,
+        4.3225,
+        0.3325,
+        4.4325,
+        0.4425,
+        4.5425,
+        0.5525,
+        4.655,
+        0.665,
+        4.765,
+        0.775,
+        4.875,
+        0.885,
+        4.9875,
+        0.9975,
+        5.0975,
+        1.1075,
+        5.2075,
+        1.2175,
+        5.32,
+        1.33,
+        5.43,
+        1.44,
+        5.54,
+        1.55,
+        5.6525,
+        1.6625,
+        5.7625,
+        1.7725,
+        5.8725,
+        1.8825,
+        5.985,
+        1.995,
+        6.095,
+        2.105,
+        6.205,
+        2.215,
+        6.3175,
+        2.3275,
+        6.4275,
+        2.4375,
+        6.5375,
+        2.5475,
+        6.65,
+        2.66,
+        6.76,
+        2.77,
+        6.87,
+        2.88,
+        6.9825,
+        2.9925,
+        7.0925,
+        3.1025,
+        7.2025,
+        3.2125,
+        7.315,
+        3.325,
+        7.425,
+        3.435,
+        7.535,
+        3.545,
+        7.6475,
+        3.6575,
+        7.7575,
+        3.7675,
+        7.8675,
+        3.8775
+    ],
+    "SoftwareVersions": "syngo_MR_E11",
+    "SpacingBetweenSlices": 2,
+    "StationName": "AWP167046",
+    "TotalReadoutTime": 0.0597409,
+    "TxRefAmp": 243.195,
+    "VendorReportedEchoSpacing": 0.00058,
+    "WipMemBlock": "18280ae8-350a-4d18-98c7-219bf4c608d5||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:22:56 by eja",
+    "dcmmeta_affine": [
+        [
+            -2.019230842590332,
+            0,
+            0,
+            107.42131042480469
+        ],
+        [
+            0,
+            2.019230842590332,
+            0,
+            -96.32217407226562
+        ],
+        [
+            0,
+            0,
+            2,
+            -60.709442138671875
+        ],
+        [
+            0,
+            0,
+            0,
+            1
+        ]
+    ],
+    "dcmmeta_reorient_transform": [
+        [
+            0,
+            -1,
+            0,
+            103
+        ],
+        [
+            1,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            1
+        ]
+    ],
+    "dcmmeta_shape": [
+        104,
+        104,
+        72,
+        3
+    ],
+    "dcmmeta_slice_dim": 2,
+    "dcmmeta_version": 0.6,
+    "global": {
+        "const": {
+            "AcquisitionMatrix": [
+                104,
+                0,
+                0,
+                104
+            ],
+            "AngioFlag": "N",
+            "BitsAllocated": 16,
+            "BitsStored": 16,
+            "BodyPartExamined": "BRAIN",
+            "Columns": 936,
+            "EchoNumbers": 1,
+            "EchoTime": 66,
+            "EchoTrainLength": 91,
+            "FlipAngle": 90,
+            "HighBit": 15,
+            "ImageOrientationPatient": [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "ImagePositionPatient": [
+                -947.42134189606,
+                -951.65862989426,
+                -60.709442138672
+            ],
+            "ImageType": [
+                "ORIGINAL",
+                "PRIMARY",
+                "M",
+                "ND",
+                "MOSAIC"
+            ],
+            "ImagedNucleus": "1H",
+            "ImagingFrequency": 123.157177,
+            "InPlanePhaseEncodingDirection": "COL",
+            "LargestImagePixelValue": 65535,
+            "MRAcquisitionType": "2D",
+            "MagneticFieldStrength": 3,
+            "Manufacturer": "SIEMENS",
+            "ManufacturerModelName": "Prisma_fit",
+            "Modality": "MR",
+            "NumberOfAverages": 1,
+            "NumberOfPhaseEncodingSteps": 91,
+            "PercentPhaseFieldOfView": 100,
+            "PercentSampling": 100,
+            "PerformedProcedureStepStartTime": "073743.403000",
+            "PhotometricInterpretation": "MONOCHROME2",
+            "PixelBandwidth": 2290,
+            "PixelRepresentation": 0,
+            "PixelSpacing": [
+                2.0192308425903,
+                2.0192308425903
+            ],
+            "ProtocolName": "fmap_acq-SE_dir-PA_ses-01",
+            "RepetitionTime": 8000,
+            "Rows": 936,
+            "SAR": 0.16733209911139,
+            "SamplesPerPixel": 1,
+            "ScanOptions": [
+                "PFP",
+                "FS"
+            ],
+            "ScanningSequence": "EP",
+            "SequenceName": "epse2d1_104",
+            "SequenceVariant": "SK",
+            "SeriesDescription": "fmap_acq-SE_dir-PA_ses-01",
+            "SeriesNumber": 7,
+            "SeriesTime": "080145.866000",
+            "SliceLocation": -60.709442138672,
+            "SliceThickness": 2,
+            "SmallestImagePixelValue": 0,
+            "SoftwareVersions": "syngo MR E11",
+            "SpacingBetweenSlices": 2,
+            "SpecificCharacterSet": "ISO_IR 100",
+            "StudyID": "1",
+            "StudyTime": "073743.323000",
+            "TransmitCoilName": "Body",
+            "VariableFlipAngleFlag": "N",
+            "WindowCenterWidthExplanation": "Algo1",
+            "dBdt": 0
+        },
+        "slices": {}
+    },
+    "time": {
+        "samples": {
+            "AcquisitionNumber": [
+                1,
+                2,
+                3
+            ],
+            "AcquisitionTime": [
+                "080125.535000",
+                "080133.535000",
+                "080141.535000"
+            ],
+            "ContentTime": [
+                "080145.869000",
+                "080145.873000",
+                "080145.875000"
+            ],
+            "InstanceCreationTime": [
+                "080145.869000",
+                "080145.873000",
+                "080145.875000"
+            ],
+            "InstanceNumber": [
+                1,
+                2,
+                3
+            ],
+            "WindowCenter": [
+                13452,
+                13454,
+                13454
+            ],
+            "WindowWidth": [
+                29885,
+                29892,
+                29896
+            ]
+        },
+        "slices": {}
+    },
+    "IntendedFor": [
+        "ses-01/anat/sub-720316_ses-01_T1w.nii.gz",
+        "ses-01/anat/sub-720316_ses-01_T2w.nii.gz"
+    ]
+}
