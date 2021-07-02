@@ -36,5 +36,6 @@
             "Name": "dcm2niix",
             "Version": "v1.0.20190410  (JP2:OpenJPEG) GCC6.3.0"
         }
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003653.v1.0.0"
 }
